@@ -17,29 +17,36 @@ export default {
     book: "HSK 标准教程 5（上）",
 
     // ─── 课文 (100% 原文还原) ────────────────────────────────────── 
-    text: [ 
+   text: [ 
         { 
             id: 1, 
-            html: "<strong>电台</strong>要选出一对最<strong>恩爱</strong>的夫妻。经过<strong>对比</strong>后，有三对夫妻<strong>入围</strong>。<strong>评委</strong>叫第一对夫妻说说他俩是<strong>如何</strong>恩爱的。妻子说，前几年她全身<strong>瘫痪</strong>了，医生说她站起来的可能性很小。别人都觉得她的丈夫会跟她<strong>离婚</strong>，她也想过要<strong>自杀</strong>。但丈夫不知找了多少家医院，并且几年如一日地照顾她，从不<strong>抱怨</strong>。在丈夫的<strong>爱护</strong>和努力下，她终于又站了起来。她的故事十分感人，评委们听了都很感动。", 
+            html: "<strong>电台</strong>要选出一对最<strong>恩爱</strong>的夫妻。<strong>对比</strong>后，有三对夫妻<strong>入围</strong>。" 
         }, 
         { 
             id: 2, 
-            html: "随后进来的是第二对夫妻，他俩说，十几年的<strong>婚姻</strong>生活中，他们从来没为任何事红过脸、<strong>吵架</strong>，一直相亲相爱、<strong>相敬如宾</strong>。评委们听了<strong>暗暗</strong>点头。", 
+            html: "<strong>评委</strong>叫第一对夫妻说说他俩是<strong>如何</strong>恩爱的。妻子说，前几年她全身<strong>瘫痪</strong>了，医生说她站起来的可能性很小。别人都觉得她的丈夫会跟她<strong>离婚</strong>，她也想过要<strong>自杀</strong>。但丈夫一直鼓励她，为她不知找了多少家医院，并且几年如一日地照顾她，从不<strong>抱怨</strong>。在丈夫的<strong>爱护</strong>和努力下，她终于又站了起来。她的故事十分感人，评委们听了都很感动。" 
         }, 
         { 
             id: 3, 
-            html: "<strong>轮</strong>到第三对夫妻了，却很长时间不见人。评委们等得有些<strong>不耐烦</strong>，就走出来看个究竟。只见第三对夫妻仍然坐在门口，男人的头<strong>靠</strong>在女人的<strong>肩膀</strong>上，睡着了。一个评委要上前<strong>喊</strong>醒那个男的，女的却<strong>伸</strong>出<strong>手指</strong>做了个小声的动作，然后小心地从包里拿出纸笔，用左手<strong>歪歪扭扭</strong>写下一行字<strong>递</strong>给评委，而她的右肩一直让丈夫的<strong>脑袋</strong>靠着。评委们看那纸条上面写着：别出声，他昨晚没睡好。一个评委提起笔在后面续写了一句话：但是<strong>女士</strong>，我们得听你们夫妻俩的<strong>叙述</strong>啊！女人又写：那我们就不参加了。", 
+            html: "随后进来的是第二对夫妻，他俩说，十几年的<strong>婚姻</strong>生活中，他们从来没为任何事红过脸、<strong>吵</strong>过架，一直相亲相爱、<strong>相敬如宾</strong>。评委们听了<strong>暗暗</strong>点头。" 
         },
         { 
             id: 4, 
-            html: "大家很吃惊，这个女人为了不影响丈夫睡觉，<strong>居然</strong>放弃这次机会！但评委们还是决定先不<strong>催</strong>他们，而是再<strong>等待</strong>一段时间。过了一会儿，男人醒了。评委们问他怎么那么累。男人不好意思地笑笑说：“我家住一楼，<strong>蚊子</strong>多。昨晚<strong>半夜</strong>我被蚊子<strong>叮</strong>醒了，我怕我<strong>老婆</strong>再被<strong>吵</strong>醒，所以后半夜就在为她赶蚊子。”", 
+            html: "<strong>轮</strong>到第三对夫妻了，却很长时间不见人。评委们等得有些<strong>不耐烦</strong>，就走出来看个究竟。只见第三对夫妻仍然坐在门口，男人的头<strong>靠</strong>在女人的<strong>肩膀</strong>上，睡着了。一个评委要上前<strong>喊</strong>醒那个男的，女的却<strong>伸</strong>出<strong>手指</strong>做了个小声的动作，然后小心地从包里拿出纸笔，用左手<strong>歪歪扭扭</strong>写下一行字<strong>递</strong>给评委，而她的右肩一直让丈夫的<strong>脑袋</strong>靠着。评委们看那纸条上面写着：别出声，他昨晚没睡好。一个评委提起笔在后面续写了一句话：但是<strong>女士</strong>，我们得听你们夫妻俩的<strong>叙述</strong>啊！女人又写：那我们就不参加了。" 
         },
         { 
             id: 5, 
-            html: "最后的结果是，电台增加了两<strong>项</strong>奖项，将第一对夫妻评为“<strong>患难与共</strong>夫妻”，将第二对夫妻评为“相敬如宾夫妻”，而真正的“最恩爱夫妻”奖，却给了第三对夫妻。", 
+            html: "大家很吃惊，这个女人为了不影响丈夫睡觉，<strong>居然</strong>放弃这次机会！但评委们还是决定先不<strong>催</strong>他们，而是再<strong>等待</strong>一段时间。" 
+        },
+        { 
+            id: 6, 
+            html: "过了一会儿，男人醒了。评委们问他怎么那么累。男人不好意思地笑笑说：“我家住一楼，<strong>蚊子</strong>多。昨晚<strong>半夜</strong>我被蚊子<strong>叮</strong>醒了，我怕我<strong>老婆</strong>再被<strong>吵</strong>醒，所以后半夜就在为她赶蚊子。”" 
+        },
+        { 
+            id: 7, 
+            html: "最后的结果是，电台增加了两<strong>项</strong>奖项，将第一对夫妻评为“<strong>患难与共</strong>夫妻”，将第二对夫妻评为“相敬如宾夫妻”，而真正的“最恩爱夫妻”奖，却给了第三对夫妻。" 
         }
     ],
-
     // ─── 生词 (补全大纲内外 38 个重点词) ──────────────────────── 
     vocabulary: [ 
         { id: 1,  word: "细节",       pinyin: "xìjié",          pos: "n.",    meaning: "detail" , example: "生活中的细节往往最能体现一个人的品格。" }, 
